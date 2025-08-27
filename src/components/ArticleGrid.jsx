@@ -7,8 +7,7 @@ const dummyArticles = [
     author: "Focus Forge",
     category: "Productivity",
     image: "/sleep_img.jpg",
-    date: "6 Jul, 2025",
-    // excerpt: "Lorem ipsum dolor sit amet, consectetur notto elit sed do."
+    date: "6th Jul, 2025",
   },
   {
     id: 2,
@@ -16,8 +15,7 @@ const dummyArticles = [
     author: "Focus Forge",
     category: "Emotional Intelligence",
     image: "/silence.jpg",
-    date: "05 Jul, 2025",
-    // excerpt: "Small consistent steps lead to major beakthroughs. Keep showing up.",
+    date: "5th Jul, 2025",
   },
   {
     id: 3,
@@ -25,7 +23,7 @@ const dummyArticles = [
     author: "Focus Forge",
     category: "Self Development",
     image: "/believe.jpg",
-    date: "06 Jul, 2025",
+    date: "6th Jul, 2025",
   },
   {
     id: 4,
@@ -33,7 +31,7 @@ const dummyArticles = [
     author: "Focus Forge",
     category: "Self-awareness",
     image: "/mask.jpg",
-    date: "19 Jul, 2025",
+    date: "19th Jul, 2025",
   },
   {
     id: 5,
@@ -41,7 +39,7 @@ const dummyArticles = [
     author: "Focus Forge",
     category: "Self Awareness",
     image: "/toxic.jpg",
-    date: "25 Jul, 2025"
+    date: "25th Jul, 2025"
   },
   {
     id: 6,
@@ -49,7 +47,7 @@ const dummyArticles = [
     author: "Focus Forge",
     category: "Politics",
     image: "/politics.jpg",
-    date: "30 Jul, 2025"
+    date: "30th Jul, 2025"
   },
   {
     id: 7,
@@ -122,13 +120,21 @@ const dummyArticles = [
     category: "Mental Health",
     image: "/depressed-2.jpg",
     date: "23rd Aug, 2025"
+  },
+  {
+    id: 16,
+    title: "Depression: Signs You Shouldn't Ignore",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/depressed-1.jpg",
+    date: "26th Aug, 2025"
   }
 ]
 
 const ArticleGrid = () => {
   return (
     <section className="py-12 px-4 max-w-6xl mx-auto grid md:grid-cols-3 gap-6">
-      {dummyArticles.map((article) => (
+      {dummyArticles.slice().reverse().map((article) => (
         <ArticleCard key={article.id} article={article} />
       ))}
     </section>
@@ -136,3 +142,4 @@ const ArticleGrid = () => {
 }
 
 export default ArticleGrid
+

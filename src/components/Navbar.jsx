@@ -14,10 +14,10 @@ const Navbar = ({ solid }) => {
 
         {/* Desktop Nav Links */}
         <div className="space-x-6 hidden md:flex">
-          <Link to="/" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500`}>Home</Link>
-          <Link to="/articles" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500`}>Articles</Link>
-          <Link to="/about" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500`}>About</Link>
-          <Link to="/contact" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500`}>Contact</Link>
+          <Link to="/" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500 font-semibold`}>Home</Link>
+          <Link to="/articles" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500 font-semibold`}>Articles</Link>
+          <Link to="/about" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500 font-semibold`}>About</Link>
+          <Link to="/contact" className={`${solid ? "text-gray-800" : "text-white"} hover:text-red-500 font-semibold`}>Contact</Link>
         </div>
 
         {/* Hamburger Icon */}

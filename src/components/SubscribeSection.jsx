@@ -28,3 +28,4 @@ const SubscribeSection = () => {
 };
 
 export default SubscribeSection;
+

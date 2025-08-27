@@ -7,7 +7,7 @@ const dummyArticles = [
         id: "1",
         title: "Benefits of Early Rising",
         image: "/sleep_img.jpg",
-        date: "6 Jul, 2025",
+        date: "6th Jul, 2025",
         author: "Focus Forge",
         category: "Productivity",
         content: `Have you ever wondered why mornings can be so challenging? Instead of feeling refreshed, you wake up tired and stressed, setting a negative tone for the day. The secret to a successful day lies in adopting an early-to-bed, early-to-rise routine, as the famous quote goes: "Early to bed and early to rise, makes a man healthy, wealthy, and wise." This timeless wisdom emphasizes the importance of getting enough rest and waking up early to make the most of your day.
@@ -34,7 +34,7 @@ In conclusion, embracing the habit of early rising can be a game-changer for you
         id: "2",
         title: "The Transformative Power of Silence: A Game-Changer in Conflict and Relationships",
         image: "/silence.jpg",
-        date: "05 Jul, 2025",
+        date: "5th Jul, 2025",
         author: "Focus Forge",
         category: "Mindset",
         content: `In a world saturated with noise, silence is often misunderstood as weakness, avoidance, or emotional detachment. Yet, in the realm of human relationships and conflicts, silence holds immense transformative power. When used wisely, silence can be a game-changer in both personal and professional interactions.
@@ -76,7 +76,7 @@ Silence is not the absence of communication—it is a powerful form of it. In co
         author: "Focus Forge",
         category: "Mindset",
         image: "/believe.jpg",
-        date: "06 Jul, 2025",
+        date: "6th Jul, 2025",
         content: `Do you remember the last time you walked into a room, and everyone noticed you? Not because you were trying to stand out, but because you exuded a sense of confidence and self-assurance. Confidence is not just a trait; it's a superpower that can transform your life. Imagine having the courage to pursue your dreams, speak your mind, and live life on your own terms.
 
 The Power Within
@@ -105,7 +105,7 @@ Unlock Your Potential`
         author: "Focus Forge",
         category: "Self-awareness",
         image: "/mask.jpg",
-        date: "19 Jul, 2025",
+        date: "19th Jul, 2025",
         content: `
 Have you ever met someone who seems perfect but then you find out they're struggling with their own demons? Or maybe you've felt like you're wearing a mask to hide your true self from the world? You're not alone. We all wear masks, whether it's to fit in, impress others, or protect ourselves. Sometimes these masks can lead to misunderstandings, conflicts, and difficulty in relationships.
 
@@ -681,12 +681,13 @@ Forgiveness doesn’t mean forgetting, it simply means letting go of the heavy w
 Don’t keep throwing stones on a road that leads nowhere. Let go, and let better blessings come in.`
     },
     {
-    id: "13",
-    title: "The Smartness in Acting Dumb",
-    author: "Focus Forge",
-    category: "Self Awareness",
-    image: "/politics.jpg",
-    content: `
+        id: "13",
+        title: "The Smartness in Acting Dumb",
+        author: "Focus Forge",
+        category: "Self Awareness",
+        image: "/politics.jpg",
+        date: "23rd, Aug, 2025",
+        content: `
 Most people see “acting dumb” as a weakness, but in reality, it can be one of the smartest strategies in life. While being openly smart often attracts envy, competition, and unnecessary pressure, acting less knowledgeable can give you surprising advantages.
 Explore the hidden power of acting dumb. Sometimes the smartest move is to stay underestimated and let your results speak.
 
@@ -715,14 +716,15 @@ Protect your strategies without anyone interfering.
 Final Thought
 
 Acting dumb doesn’t mean you are actually dumb—it simply means you are wise enough to know when to hide your intelligence. Sometimes, silence and humility win more than loud displays of knowledge. In a world where everyone is trying to prove how smart they are, the real genius may just be the one who plays dumb.`
-  },
-  {
-    id: "14",
-    title: "Mental Health and It's Importance: Why a Healthy Mind is Your Greatest Asset",
-    author: "Focus Forge",
-    category: "Mental Health",
-    image: "/mental-2.jpg",
-    content: `
+    },
+    {
+        id: "14",
+        title: "Mental Health and It's Importance: Why a Healthy Mind is Your Greatest Asset",
+        author: "Focus Forge",
+        category: "Mental Health",
+        image: "/mental-2.jpg",
+        date: "23rd Aug, 2025",
+        content: `
 Discover why mental health is important for productivity, relationships, and overall well-being. Learn simple ways to care for your mind and achieve inner peace.
 
 
@@ -777,14 +779,15 @@ Your mental health is your anchor. It keeps you steady when life gets overwhelmi
 So nurture your mind. Guard it. Care for it. Because when your mental health is strong, everything else in life flourishes.
 
 Peace is impossible without inner peace. And inner peace begins with mental health.`
-  },
-  {
-    id: "15",
-    title: "Signs of Depression You Shouldn't Ignore",
-    author: "Focus Forge",
-    category: "Mental Health",
-    image: "/depressed-2.jpg",
-    content: `
+    },
+    {
+        id: "15",
+        title: "Signs of Depression You Shouldn't Ignore",
+        author: "Focus Forge",
+        category: "Mental Health",
+        image: "/depressed-2.jpg",
+        date: "23rd Aug, 2025",
+        content: `
 Depression is often called the “silent illness” because it doesn’t always look the same for everyone. Some people imagine depression as constant sadness or tears — but the truth is, it can show up in subtle ways you might not recognize at first. Ignoring these signs not only worsens mental health but can also affect relationships, work, and physical well-being.
 
 If you’ve been asking yourself “Am I just tired, or could this be depression?” — here are key signs of depression you should never ignore.
@@ -864,7 +867,68 @@ Explore healthy coping strategies like therapy, mindfulness, and physical activi
 
 
 ✨ Final Thought: Depression is not just “feeling sad” — it’s a condition that affects the mind, body, and soul. By recognizing these signs early, you can take steps toward healing and reclaiming your happiness.`
-  }
+    },
+    {
+        id: "16",
+        title: "Depression: Signs You Shouldn't Ignore",
+        author: "Focus Forge",
+        category: "Mental Health",
+        image: "/depressed-1.jpg",
+        date: "26th Aug, 2025",
+        content: `
+Depression is a silent burden many people carry today — often without even realizing it. Before we go further, it’s important to understand the concept of depression. It’s not always about constant sadness or tears. Sometimes, it hides behind smiles, laughter, and daily routines.
+
+A lot of people are battling depression while appearing completely fine on the outside.
+
+I once had a friend who was quietly fighting it. As someone who deeply cared, it was tough. I couldn’t just leave him alone. The hardest part? I had no idea he was struggling. He seemed perfectly okay — laughing, playing, and chatting in public. But he was sinking on the inside.
+
+Eventually, he started sharing some signs he had noticed in himself. That’s when I realized how invisible depression can be. Supporting him wasn’t easy. It took patience. Some days, he shut me out completely. Other days, he didn’t even want to be followed up. But I stayed.
+
+It wasn’t quick, but slowly, he began to rediscover his worth and value. With encouragement, he started coming out of the shell depression had built around him. He found strength not in pretending to be okay — but in accepting help.
+
+Depression is a deep feeling of sadness or emptiness that  affects how a person thinks, feels, and lives each day.
+
+5 Signs You Might Be Depressed Without Realizing It
+
+1. You laugh louder in public but feel empty afterward  
+   You’re the “life of the party,” but when you're alone, the silence feels heavier than it should.
+
+2. You’ve lost interest in what used to excite you  
+   The things you once loved — your hobbies, passions, or favorite shows — now feel like chores or background noise.
+
+3. You’re constantly tired, even after resting  
+   It’s more than physical exhaustion. It’s like your energy is leaking from somewhere emotional or mental.
+
+4. You feel disconnected from people, even when surrounded  
+   You’re in a room full of friends but feel like you’re not really there. Conversations feel distant and forced.
+
+5. You keep saying “I’m fine” — even when something inside you is clearly not  
+   You’ve perfected the mask. Smiling through the weight, convincing others (and maybe yourself) that all is well.
+
+
+What Do You Do When You Are Depressed?
+
+1. Surrender  
+   As we all know, the spiritual controls the physical. So, if you can align yourself spiritually, you can begin to influence the physical. The first step is to surrender to God — not just as a last resort, but as a daily choice. Instead of overthinking and worrying, talk to God. Tell Him how you feel. There’s peace in unburdening your soul.
+
+2. Practice Positive Affirmations  
+   Start each day by reminding yourself of your worth. Say out loud: I am loved. I am valuable. I am needed. Your mind is a powerful battlefield — often, the loudest enemy is the voice inside your head. Replace self-doubt with words of strength. The more you affirm your value, the more your heart starts to believe it.
+
+3. Avoid Certain Medications  
+   Depression isn’t just emotional — it can be affected by what you consume. Some medications, like Ciprofloxacin (Cipro), an antibiotic, have been known to worsen depression and, in rare cases, trigger suicidal thoughts. Always consult your doctor and pay attention to how your body reacts to prescribed medication.
+
+4. Get Moving — Literally Physical activity may seem like the last thing you want, but it's a natural mood booster. Whether it’s walking, dancing, or stretching, movement releases endorphins that help lift your spirit. Even 15 minutes a day can make a difference.
+
+5. Talk to Someone  
+   You don’t have to go through it alone. A trusted friend, therapist, counselor, or even a support group can help you process your emotions. Speaking your pain out loud helps you hear your truth — and that’s a powerful step toward healing.
+
+
+
+In Conclusion  
+Depression may feel like a dark, endless tunnel, but there’s light — and it begins with one step. Don’t let silence keep you stuck. Surrender, affirm your worth, make healthy choices, move your body, and seek connection. You are not broken — you are becoming. Healing is not instant, but with time, intention, and support, you’ll find your way back to joy.
+
+You're not alone. And you are stronger than you think.`
+    }
 ];
 
 const ArticleDetailPage = () => {

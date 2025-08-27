@@ -8,7 +8,8 @@ const dummyArticles = [
     title: "Benefits of Early Rising",
     author: "Focus Forge",
     category: "Productivity",
-    image: "/sleep_img.jpg", // Replace with your real image or use a placeholder
+    image: "/sleep_img.jpg",
+    date: "6th Jul, 2025", // Replace with your real image or use a placeholder
     content: `Have you ever wondered why mornings can be so challenging? Instead of feeling refreshed, you wake up tired and stressed, setting a negative tone for the day. The secret to a successful day lies in adopting an early-to-bed, early-to-rise routine, as the famous quote goes: "Early to bed and early to rise, makes a man healthy, wealthy, and wise." This timeless wisdom emphasizes the importance of getting enough rest and waking up early to make the most of your day.
 
 Top 6 Benefits of Early Rising
@@ -35,6 +36,7 @@ In conclusion, embracing the habit of early rising can be a game-changer for you
     author: "Focus Forge",
     category: "Emotional Intelligence",
     image: "/silence.jpg",
+    date: "5th Jul, 2025",
     content: `In a world saturated with noise, silence is often misunderstood as weakness, avoidance, or emotional detachment. Yet, in the realm of human relationships and conflicts, silence holds immense transformative power. When used wisely, silence can be a game-changer in both personal and professional interactions.
 
 A Personal Experience
@@ -75,6 +77,7 @@ Silence is not the absence of communication—it is a powerful form of it. In co
     author: "Focus Forge",
     category: "Self Development",
     image: "/believe.jpg",
+    date: "6th Jul, 2025",
     content: `Do you remember the last time you walked into a room, and everyone noticed you? Not because you were trying to stand out, but because you exuded a sense of confidence and self-assurance. Confidence is not just a trait; it's a superpower that can transform your life. Imagine having the courage to pursue your dreams, speak your mind, and live life on your own terms.
 
 The Power Within
@@ -103,7 +106,7 @@ Unlock Your Potential`
     author: "Focus Forge",
     category: "Self-awareness",
     image: "/mask.jpg",
-    date: "19 Jul, 2025",
+    date: "19th Jul, 2025",
     content: `
 Have you ever met someone who seems perfect but then you find out they're struggling with their own demons? Or maybe you've felt like you're wearing a mask to hide your true self from the world? You're not alone. We all wear masks, whether it's to fit in, impress others, or protect ourselves. Sometimes these masks can lead to misunderstandings, conflicts, and difficulty in relationships.
 
@@ -143,6 +146,7 @@ P.S. Matchmaking also involves personality checks! Don't miss out! Subscribe to 
     author: "Focus Forge",
     category: "Self Awareness",
     image: "/toxic.jpg",
+    date: "25th Jul, 2025",
     content: `As I sat down with my friend on a Saturday morning, I could sense the weight of her struggles. She had been feeling restless, stressed, and drained for weeks, and it was taking a toll on her mental and physical health. As she opened up to me about her relationship, I realized that she was trapped in a toxic environment that was sucking the life out of her.
 
 Her boyfriend's lack of emotional investment and constant criticism had left her feeling guilty, confused, and uncertain about her own worth. I knew I wasn't alone in witnessing this pattern, as many people struggle to recognize the signs of toxicity in their relationships, friendships, or even family dynamics.
@@ -191,6 +195,7 @@ Walking away from a toxic environment is not a sign of weakness, but a testament
     author: "Focus Forge",
     category: "Politics",
     image: "/politics.jpg",
+    date: "30th Jul, 2025",
     content: `
 Politics is often defined as the process of attaining and exercising power, often through campaigns and elections. But today, politics has evolved — or perhaps devolved — into something more complicated, more dangerous, and more personal.
 
@@ -264,6 +269,7 @@ The one who enters with purpose, serves with courage, and exits with honor.`
     author: "Focus Forge",
     category: "Self Awareness",
     image: "/mask.jpg",
+    date: "2nd Aug, 2025",
     content: `In our previous article on the multifaceted self, the 16 personalities of Myers Briggs type indicator were listed and we were sure anticipating to unlock the characteristics of each personality type🙂‍↔.
 
 We will be looking at the characteristics of these 16 personalities. Dear gentle reader, study them and know which suits you or even a friend or loved one and learn to make better decisions and handle situations smartly😊.
@@ -435,6 +441,7 @@ Going through these personalities we can be able to predict wat ppl can do hence
     author: "Focus Forge",
     category: "Relationship",
     image: "/ghost2.jpg",
+    date: "4th Aug, 2025",
     content: `Ghosting is when someone you’ve been talking to — maybe even getting close to — suddenly cuts off all communication without any explanation. No calls, no messages, no goodbyes. It can leave you confused, hurt, and full of unanswered questions.
 
 You may start to wonder, “Did I do something wrong?” “Wasn’t everything going well?” But in many cases, ghosting has more to do with the other person’s mindset than anything you did.
@@ -507,6 +514,7 @@ Inorder to appear even more valuable learn to ignore act like u didn't know you 
     author: "Focus Forge",
     category: "Self Development",
     image: "/integrity.jpg",
+    date: "4th Aug, 2025",
     content: `
 In a world filled with dishonesty and corruption, integrity is a rare yet priceless virtue.
 Integrity is the quality of being honest and firm in one’s moral principles.
@@ -550,6 +558,7 @@ Integrity is the foundation of a strong character and a thriving society. No mat
     author: "Focus Forge",
     category: "Self Development",
     image: "/decision.jpg",
+    date: "9th Aug, 2025",
     content: `
 Every day, we are faced with countless choices — some small, some life-changing. From what to eat for breakfast to which career path to pursue, our decisions shape our present and carve the path toward our future. Yet, despite their importance, making decisions is often challenging. The power of decision lies not just in choosing but in understanding how those choices define us and the lives we live.
 
@@ -591,6 +600,7 @@ Because life isn’t about waiting for the perfect moment — it’s about creat
     author: "Focus Forge",
     category: "Spiritual Life",
     image: "/Jesus.jpg",
+    date: "17th Aug, 2025",
     content: `
 There was a time I was battling with a particular sin. I fasted, I prayed, and I thought I had overcome, only to watch myself fall back into the same mess. At some point, I stopped and began to ask myself: “Is it that God didn’t answer my prayers, or is it that there are demons following me?”
 
@@ -636,6 +646,7 @@ So if you’ve been struggling, don’t give up. God is not counting how many ti
     author: "Focus Forge",
     category: "Self Awareness",
     image: "/forgive.jpg",
+    date: "17th Aug, 2025",
     content: `
 Most times, forgiveness is seen as weakness, especially in our world today. Little do we know that forgiveness is one of the best gifts you can give to anyone.
 
@@ -676,6 +687,7 @@ Don’t keep throwing stones on a road that leads nowhere. Let go, and let bette
     author: "Focus Forge",
     category: "Self Awareness",
     image: "/politics.jpg",
+    date: "23rd Aug, 2025",
     content: `
 Most people see “acting dumb” as a weakness, but in reality, it can be one of the smartest strategies in life. While being openly smart often attracts envy, competition, and unnecessary pressure, acting less knowledgeable can give you surprising advantages.
 Explore the hidden power of acting dumb. Sometimes the smartest move is to stay underestimated and let your results speak.
@@ -712,6 +724,7 @@ Acting dumb doesn’t mean you are actually dumb—it simply means you are wise 
     author: "Focus Forge",
     category: "Mental Health",
     image: "/mental-2.jpg",
+    date: "23rd Aug, 2025",
     content: `
 Discover why mental health is important for productivity, relationships, and overall well-being. Learn simple ways to care for your mind and achieve inner peace.
 
@@ -774,6 +787,7 @@ Peace is impossible without inner peace. And inner peace begins with mental heal
     author: "Focus Forge",
     category: "Mental Health",
     image: "/depressed-2.jpg",
+    date: "23rd Aug, 2025",
     content: `
 Depression is often called the “silent illness” because it doesn’t always look the same for everyone. Some people imagine depression as constant sadness or tears — but the truth is, it can show up in subtle ways you might not recognize at first. Ignoring these signs not only worsens mental health but can also affect relationships, work, and physical well-being.
 
@@ -854,6 +868,67 @@ Explore healthy coping strategies like therapy, mindfulness, and physical activi
 
 
 ✨ Final Thought: Depression is not just “feeling sad” — it’s a condition that affects the mind, body, and soul. By recognizing these signs early, you can take steps toward healing and reclaiming your happiness.`
+  },
+  {
+    id: 16,
+    title: "Depression: Signs You Shouldn't Ignore",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/depressed-1.jpg",
+    date: "26th Aug, 2025",
+    content: `
+Depression is a silent burden many people carry today — often without even realizing it. Before we go further, it’s important to understand the concept of depression. It’s not always about constant sadness or tears. Sometimes, it hides behind smiles, laughter, and daily routines.
+
+A lot of people are battling depression while appearing completely fine on the outside.
+
+I once had a friend who was quietly fighting it. As someone who deeply cared, it was tough. I couldn’t just leave him alone. The hardest part? I had no idea he was struggling. He seemed perfectly okay — laughing, playing, and chatting in public. But he was sinking on the inside.
+
+Eventually, he started sharing some signs he had noticed in himself. That’s when I realized how invisible depression can be. Supporting him wasn’t easy. It took patience. Some days, he shut me out completely. Other days, he didn’t even want to be followed up. But I stayed.
+
+It wasn’t quick, but slowly, he began to rediscover his worth and value. With encouragement, he started coming out of the shell depression had built around him. He found strength not in pretending to be okay — but in accepting help.
+
+Depression is a deep feeling of sadness or emptiness that  affects how a person thinks, feels, and lives each day.
+
+5 Signs You Might Be Depressed Without Realizing It
+
+1. You laugh louder in public but feel empty afterward  
+   You’re the “life of the party,” but when you're alone, the silence feels heavier than it should.
+
+2. You’ve lost interest in what used to excite you  
+   The things you once loved — your hobbies, passions, or favorite shows — now feel like chores or background noise.
+
+3. You’re constantly tired, even after resting  
+   It’s more than physical exhaustion. It’s like your energy is leaking from somewhere emotional or mental.
+
+4. You feel disconnected from people, even when surrounded  
+   You’re in a room full of friends but feel like you’re not really there. Conversations feel distant and forced.
+
+5. You keep saying “I’m fine” — even when something inside you is clearly not  
+   You’ve perfected the mask. Smiling through the weight, convincing others (and maybe yourself) that all is well.
+
+
+What Do You Do When You Are Depressed?
+
+1. Surrender  
+   As we all know, the spiritual controls the physical. So, if you can align yourself spiritually, you can begin to influence the physical. The first step is to surrender to God — not just as a last resort, but as a daily choice. Instead of overthinking and worrying, talk to God. Tell Him how you feel. There’s peace in unburdening your soul.
+
+2. Practice Positive Affirmations  
+   Start each day by reminding yourself of your worth. Say out loud: I am loved. I am valuable. I am needed. Your mind is a powerful battlefield — often, the loudest enemy is the voice inside your head. Replace self-doubt with words of strength. The more you affirm your value, the more your heart starts to believe it.
+
+3. Avoid Certain Medications  
+   Depression isn’t just emotional — it can be affected by what you consume. Some medications, like Ciprofloxacin (Cipro), an antibiotic, have been known to worsen depression and, in rare cases, trigger suicidal thoughts. Always consult your doctor and pay attention to how your body reacts to prescribed medication.
+
+4. Get Moving — Literally Physical activity may seem like the last thing you want, but it's a natural mood booster. Whether it’s walking, dancing, or stretching, movement releases endorphins that help lift your spirit. Even 15 minutes a day can make a difference.
+
+5. Talk to Someone  
+   You don’t have to go through it alone. A trusted friend, therapist, counselor, or even a support group can help you process your emotions. Speaking your pain out loud helps you hear your truth — and that’s a powerful step toward healing.
+
+
+
+In Conclusion  
+Depression may feel like a dark, endless tunnel, but there’s light — and it begins with one step. Don’t let silence keep you stuck. Surrender, affirm your worth, make healthy choices, move your body, and seek connection. You are not broken — you are becoming. Healing is not instant, but with time, intention, and support, you’ll find your way back to joy.
+
+You're not alone. And you are stronger than you think.`
   }
 ];
 
@@ -864,7 +939,7 @@ const ArticlesPage = () => {
       <section className="pt-24 px-4 max-w-6xl mx-auto">
         <h1 className="text-3xl font-bold mb-8 text-center">All Articles</h1>
         <div className="grid md:grid-cols-3 gap-6">
-          {dummyArticles.map((article) => (
+          {dummyArticles.slice().reverse().map((article) => (
             <ArticleCard key={article.id} article={article} />
           ))}
         </div>
