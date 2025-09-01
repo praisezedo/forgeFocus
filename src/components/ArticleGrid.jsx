@@ -115,19 +115,35 @@ const dummyArticles = [
   },
   {
     id: 15,
-    title: "Signs of Depression You Shouldn’t Ignore",
-    author: "Focus Forge",
-    category: "Mental Health",
-    image: "/depressed-2.jpg",
-    date: "23rd Aug, 2025"
-  },
-  {
-    id: 16,
     title: "Depression: Signs You Shouldn't Ignore",
     author: "Focus Forge",
     category: "Mental Health",
     image: "/depressed-1.jpg",
     date: "26th Aug, 2025"
+  },
+  {
+    id: 16,
+    title: "Benefits of Drinking Water First Thing in the Morning",
+    author: "Focus Forge",
+    category: "Health Benefits",
+    image: "/water.jpg",
+    date: "29th Aug, 2025"
+  },
+  {
+    id: 17,
+    title: "The Ultimate Beginner's Guide to Skincare (With a Personal Touch)",
+    author: "Focus Forge",
+    category: "Skincare",
+    image: "/skin.jpg",
+    date: "29th Aug, 2025"
+  },
+  {
+    id: 18,
+    title: "Evening Self-Care Habits for Stress",
+    author: "Focus Forge",
+    category: "Health Tips",
+    image: "/self.jpg",
+    date: "30th Aug, 2025"
   }
 ]
 

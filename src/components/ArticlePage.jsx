@@ -794,95 +794,6 @@ Peace is impossible without inner peace. And inner peace begins with mental heal
 
   {
     id: 15,
-    title: "Signs of Depression You Shouldn't Ignore",
-    author: "Focus Forge",
-    category: "Mental Health",
-    image: "/mental-2.jpg",
-    date: "23rd Aug, 2025",
-    content: `
-Depression is often called the “silent illness” because it doesn’t always look the same for everyone. Some people imagine depression as constant sadness or tears — but the truth is, it can show up in subtle ways you might not recognize at first. Ignoring these signs not only worsens mental health but can also affect relationships, work, and physical well-being.
-
-If you’ve been asking yourself “Am I just tired, or could this be depression?” — here are key signs of depression you should never ignore.
-
-
-
-1. Persistent Sadness or Emptiness
-
-Everyone feels down sometimes, but if sadness lingers for two weeks or more and doesn’t seem to lift, it may be more than just a bad mood. Depression often feels like a heavy cloud that refuses to go away, leaving you drained and hopeless.
-
-
-2. Loss of Interest in Things You Once Enjoyed
-
-Do you find yourself skipping hobbies, social gatherings, or activities you once loved? This loss of interest or pleasure (called anhedonia) is a strong warning sign of depression. Life feels “colorless,” and nothing excites you the way it used to.
-
-
-
-3. Changes in Sleep Patterns
-
-Depression can affect sleep in two extremes:
-
-Insomnia – struggling to fall or stay asleep.
-
-Hypersomnia – sleeping excessively but still feeling tired.
-
-
-If your sleep cycle has changed drastically without another clear reason, depression could be the hidden cause.
-
-
-
-4. Sudden Changes in Appetite or Weight
-
-Some people lose their appetite, while others eat more than usual as a form of comfort. Significant weight gain or loss without conscious effort can point to underlying emotional struggles.
-
-
-
-5. Difficulty Concentrating
-
-Do you find it hard to focus, make decisions, or remember details? Depression often clouds the mind, making everyday tasks feel overwhelming. This mental fog is more than simple forgetfulness — it’s a symptom you shouldn’t ignore.
-
-
-
-6. Unexplained Aches and Pains
-
-Depression doesn’t just affect the mind; it affects the body too. Frequent headaches, stomach issues, or muscle pain that don’t respond to treatment can be physical manifestations of depression.
-
-
-
-7. Withdrawal from Friends and Family
-
-If you notice yourself avoiding calls, skipping meetups, or pulling away from loved ones, it could be more than just needing “alone time.” Social withdrawal is a common sign of depression and often deepens feelings of isolation.
-
-
-
-8. Thoughts of Self-Harm or Suicide
-
-This is the most serious warning sign and should never be ignored. If you or someone you know is having thoughts of self-harm, it’s important to seek immediate help from a trusted professional or call an emergency helpline.
-
-
-
-Why You Shouldn’t Ignore These Signs
-
-Depression is treatable — but only if recognized. Ignoring it can lead to worsening mental health, strained relationships, and even serious physical illnesses. Paying attention to these signs is the first step to healing.
-
-
-
-What to Do Next
-
-If these symptoms sound familiar, remember: seeking help is not a weakness, but a brave step toward recovery.
-
-Reach out to a trusted friend or family member.
-
-Consult a mental health professional for diagnosis and treatment.
-
-Explore healthy coping strategies like therapy, mindfulness, and physical activity.
-
-
-
-✨ Final Thought: Depression is not just “feeling sad” — it’s a condition that affects the mind, body, and soul. By recognizing these signs early, you can take steps toward healing and reclaiming your happiness.`
-  },
-
-  {
-    id: 16,
     title: "Depression: Signs You Shouldn't Ignore",
     author: "Focus Forge",
     category: "Mental Health",
@@ -941,6 +852,149 @@ In Conclusion
 Depression may feel like a dark, endless tunnel, but there’s light — and it begins with one step. Don’t let silence keep you stuck. Surrender, affirm your worth, make healthy choices, move your body, and seek connection. You are not broken — you are becoming. Healing is not instant, but with time, intention, and support, you’ll find your way back to joy.
 
 You're not alone. And you are stronger than you think.`
+  },
+  {
+    id: 16,
+    title: "Benefits of Drinking Water First Thing in the Morning",
+    author: "Focus Forge",
+    category: "Health Benefits",
+    image: "/water.jpg",
+    date: "29th Aug, 2025",
+    content: `
+We all wake up in the morning either jumping into taking coffee, or tea. Some even take soft drinks, while some proceed to taking food—especially heavy foods. Others don’t take anything at all once they get up. 
+
+The truth is: all these habits are not the best. Taking coffee in the morning can lead to feelings of stress and fatigue. Taking soft drinks is even worse—especially carbonated soft drinks on an empty stomach. It doesn’t help at all.
+
+Rushing to eat heavy meals first thing in the morning is also unhealthy. It gives your body more stress as you go through the day. Imagine someone wakes you up very early and with sleepy eyes they force you to carry a very heavy load—don’t you think you’ll probably collapse?
+
+That’s exactly what you do to your stomach every morning when you rush into taking heavy foods. It can also cause bloating and indigestion, leaving you feeling sluggish instead of energetic.
+
+5 Refreshing Benefits of Drinking Water First Thing in the Morning
+
+1. Jumpstarts Your Brain  
+Think of water as your brain's morning coffee. After hours of sleep, your body is dehydrated, and your brain is slower. A glass of water rehydrates you instantly, boosting clarity, focus, and energy.
+
+2. Wakes Up Your Digestive System  
+Water acts like a gentle internal rinse. It prepares your stomach and intestines for the day, helping prevent constipation and improving digestion throughout the day.
+
+3. Boosts Your Metabolism  
+Want to fire up your metabolism without lifting a finger? Drinking water early increases calorie-burning and helps with weight management. It's a natural, effortless way to support your fitness goals.
+
+4. Flushes Out Toxins  
+Overnight, your body works like a detox machine. Drinking water in the morning helps flush out those built-up toxins, making your skin clearer, your organs happier, and your body feel cleaner.
+
+5. Strengthens Immunity & Fights Fatigue  
+A hydrated body fights better. Water helps your immune system stay sharp, and your muscles stay energized. That sluggish morning feeling? Often just dehydration in disguise.
+Conclusion;
+Starting your day with a glass of water is one of the simplest and healthiest habits you can develop. It gently wakes up your system, flushes out toxins, kickstarts your metabolism, and prepares your body for the day ahead. Instead of burdening your stomach, water refreshes and energizes you naturally. Make water your first drink in the morning—and your body will thank you in countless ways.`
+  },
+  {
+    id: 17,
+    title: "The Ultimate Beginner's Guide to Skincare (With a Personal Touch)",
+    author: "Focus Forge",
+    category: "Skincare",
+    image: "/skin.jpg",
+    date: "29th Aug, 2025",
+    content: `
+Taking care of your skin isn’t just about looking good—it’s about feeling confident and healthy. Whether you have oily, dry, or combination skin, your skincare journey should reflect your unique needs. Here’s a complete guide to building the right skincare routine, including a real-life experience to help you relate.
+
+
+Understanding Your Skin Type
+
+Before you buy any skincare product, it’s important to know your skin type.
+
+- Oily skin: Produces excess oil, often shiny with larger pores.
+- Dry skin: Feels tight or flaky and lacks natural moisture.
+- Combination skin: A mix—often oily on the T-zone, dry on the cheeks.
+
+
+My Real Skincare Experience (Personal Story)*At one point, I didn’t know how important it was to choose the right products for my skin type. I was using anything that “looked good” online. For my oily skin, I kept applying heavy moisturizers that ended up clogging my pores. Then I learned about *non-comedogenic products. Switching to lightweight serums and cleansers changed everything—my face felt breathable, my breakouts reduced, and my confidence improved.
+
+This taught me one major lesson: you must listen to your skin.
+
+
+Skincare Tips Based on Skin Type
+
+For Oily Skin
+- Use non-comedogenic products to avoid clogging pores.
+- Choose gel-based moisturizers or oil-free products.
+- Wash your face twice daily with a gentle foaming cleanser.
+- Avoid harsh scrubbing—it stimulates more oil.
+
+For Dry Skin
+- Use moisturizers rich in oils and emollients.
+- Look for ingredients like hyaluronic acid and glycerin.
+- Apply serum before your cream to lock in hydration.
+- Avoid alcohol-based products that dry out the skin.
+
+
+Essential Product Tips
+- Oily skin: Go for non-comedogenic, water-based products.
+- Dry skin: Use oil-rich moisturizers and hydrating serums.
+
+
+Before you jump into your skincare routine—or your coffee—drink a glass of *water first thing in the morning. It flushes out toxins, wakes up your organs, and hydrates your skin from within.
+
+---
+
+Avoid These Morning Mistakes
+
+- Skipping breakfast: Leads to low energy and slows metabolism.
+- Heavy food too early: Overloads your digestion and may cause bloating.
+- Soft drinks in the morning: Harmful to an empty stomach; may trigger acid reflux or irritability.
+
+Give your body time to wake up gently—your stomach isn’t a machine.
+
+
+
+Conclusion: Skincare Is a Journey, Not a Race
+
+Your skin deserves patience and care. The right skincare isn’t about trends—it’s about what works for YOU. From personal experience, I’ve learned that proper hydration, using suitable products, and avoiding harmful habits can totally transform your skin—and your confidence.
+
+Start with understanding, follow with consistency, and end with self-love.`
+  },
+  {
+    id: 18,
+    title: "Evening Self-Care Habits for Stress",
+    author: "Focus Forge",
+    category: "Health Tips",
+    image: "/self.jpg",
+    date: "30th Aug, 2025",
+    content: `
+Introduction  
+Imagine having a long day at work or school and coming back home feeling more stressed than you left. You manage to prepare something to eat, but in the middle of your stress, you realize your room is a complete mess. It needs serious tidying. On top of that, you’ve got assignments or projects waiting for you — and tomorrow won’t be any less busy.  
+Now, tell me — shouldn’t that be a problem? Definitely yes.
+
+Most people might ignore the mess around them and jump into other activities, which is a normal reaction. But it’s not the best one. Some might lie down scrolling endlessly through social media, sinking deeper into a mix of mental clutter, laziness, and a feeling of helplessness.
+
+But here's something many don’t realize: the brain responds to what we see, hear, and touch. Staying in an untidy space can silently affect your mood and motivation. You may not feel like doing anything productive simply because the mess around you signals your brain to stay stuck. That’s why your evening environment matters more than you think.
+
+
+So how can you care for your mind and body after a stressful day? Try these 5 evening self-care habits that actually work:
+
+
+
+1. Tidy Your Space Like You're Resetting Your Mind  
+Cleaning up your surroundings isn’t just about removing dirt — it’s about clearing mental fog. Folding your clothes, arranging your bed, or even just decluttering your desk can give you a sense of calm and control. It's like telling your brain, “We’re putting chaos to rest now.”
+
+
+2. Take a Shower That Feels Like a Reset Button  
+A warm shower after a long day isn’t just relaxing — it’s symbolic. As the water runs, imagine it washing away your stress. Add a few drops of essential oil or use a soothing body wash to make the experience feel like therapy. Bonus: it helps you sleep better.
+
+
+3. Do a 5-Minute Brain Dump  
+Instead of letting thoughts race through your head, pour them onto paper. Write whatever comes to mind — what stressed you out, what you need to do tomorrow, what you're feeling. It doesn't have to make sense. This one habit can stop overthinking in its tracks.
+
+
+4. Move a Little, Just for You No need for a full workout. Try gentle stretches, a quick walk, or even dancing to your favorite song. Moving your body helps release tension and boosts endorphins, giving you a natural mood lift before bed.
+
+
+5. Light Up the Calm  
+End your day by creating a cozy, quiet vibe. Dim the lights, light a candle or play some soft music. Sip a warm drink like herbal tea or cocoa. This signals your body that it’s time to wind down, and it builds a peaceful bedtime rhythm you’ll start to look forward to.
+
+
+Conclusion  
+Taking care of yourself in the evening isn’t just a luxury — it’s a necessity. The way you spend your evenings shapes how well you rest, recharge, and show up the next day. Start with one or two habits, and as they become natural, add more. Remember, stress may visit, but it doesn’t have to stay. The power to reset is already in your hands — or better yet, in your evening.`
   }
 ];
 
