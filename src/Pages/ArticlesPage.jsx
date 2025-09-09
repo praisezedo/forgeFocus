@@ -984,6 +984,101 @@ End your day by creating a cozy, quiet vibe. Dim the lights, light a candle or p
 
 Conclusion  
 Taking care of yourself in the evening isn’t just a luxury — it’s a necessity. The way you spend your evenings shapes how well you rest, recharge, and show up the next day. Start with one or two habits, and as they become natural, add more. Remember, stress may visit, but it doesn’t have to stay. The power to reset is already in your hands — or better yet, in your evening.`
+  },
+  {
+    id: 19,
+    title: "Causes of a Big Tummy (Bloating)",
+    author: "Focus Forge",
+    category: "Health Care",
+    image: "/tummy3.jpg",
+    date: "4th Sept, 2025",
+    content: `
+Amanda was excited as she kept staring at her body in her nice flowing dress for her dinner date. She was super excited and nervous at the same time. She kept putting it on and admiring how gorgeous and elegant she looked. But the next morning, after taking a light dinner, she dressed up and noticed how bloated her tummy was. It spoiled the fitting of the dress and affected her shape.
+
+Most of us have experienced bloating at some point. It is one of the common issues, especially among Gen Z girls, because it can make you feel uncomfortable and take away the confidence of looking and feeling chic. 
+
+Do you know what causes bloating?
+
+Bloating happens when your stomach feels full and tight, often caused by excess gas or digestive issues. Some common causes include:
+
+- Eating too quickly or overeating  
+- Consuming carbonated drinks or foods that cause gas  
+- Food intolerances, such as lactose or gluten sensitivity  
+- Hormonal changes, especially during menstruation  
+- Stress and lack of physical activity  
+
+How to reduce bloating and get a flatter tummy
+1. Eat slowly and mindfully: Take your time to chew well and avoid swallowing air.  
+2. Stay hydrated: Drink plenty of water to help your digestive system work smoothly.  
+3. Limit gas-producing foods: Cut back on beans, cabbage, and carbonated drinks.  
+4. Exercise regularly: Movement helps to reduce trapped gas and promotes digestion.  
+5. Manage stress: Stress can affect your gut health, so practice relaxation techniques like deep breathing or yoga.  
+
+By understanding the causes and taking simple steps, you can reduce bloating and enjoy your favorite outfits with confidence every day.`
+  },
+  {
+    id: 20,
+    title: "STRESS: A Door to Many Health Problems",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/stress.jpg",
+    date: "5th Sept, 2025",
+    content: `Introduction  
+Stress, as we all know, is a feeling of tiredness, anxiety, or fatigue that usually comes from pressure — whether physical, emotional, or mental. Most times, it shows up as exhaustion, irritability, or lack of motivation. But what many people don’t realize is that stress can lead to several serious health problems if not managed properly.
+
+After working hard all day, many of us get stuck on our phones or skip proper rest because of deadlines or distractions. But have you ever asked yourself — can stress be managed?
+
+What Happens When You’re Stressed?  
+Whenever we are stressed — whether emotionally, physically, or mentally — a hormone called cortisol is released into the body. This hormone helps us cope with emergency situations (fight-or-flight mode), but excess cortisol can increase blood sugar, raise metabolism, and trigger belly fat accumulation. It can even cause unexplained weight gain or weight loss.
+
+Types of Stress and How They Affect You
+
+1. Physical Stress;This type is common among those who do physically demanding jobs — like cleaners, nurses, waiters, freshers in school, and others doing long shifts. The result? Fatigue, muscle pain, and burnout. When not managed, it takes a toll on your mental health too.
+
+2. Mental Stress  
+This comes from intense thinking, overworking the brain through reading, studying, and planning without rest. It can lead to headaches, insomnia, poor memory, and anxiety.
+
+3. Emotional Stress  
+Triggered by heartbreak, disappointment, loss, or constant comparison with others. It silently breaks you down, affecting your mood, confidence, and relationships.
+
+How Do You Really Manage Stress?
+Let’s be honest— stress is something we all deal with, whether it's from school, work, family expectations, or even social media. But have you ever stopped to ask yourself, "How am I really managing this stress?"  
+Most of us brush it off, take take a nap, or scroll on our phones, hoping the tension will magically fade away. Unfortunately, it doesn’t.
+
+So how do you manage stress in a way that actually helps? Let’s break it down into three common types and practical ways to handle each:
+
+
+1. Physical Stress  
+Physical stress happens when your body is under strain—from lack of sleep, fatigue, hunger, or even too much caffeine.  
+To ease this:
+- Take breaks when needed.
+- Exercise regularly—even a walk helps.
+- Sleep well, eat right, and stay hydrated.  
+Your body is not a machine. If you don’t take care of it, stress will show up one way or another.
+
+
+2. Mental Stress  
+Mental stress is the storm in your mind—overthinking, pressure to meet expectations, or trying to please everyone.  
+To manage this:
+- Practice mindfulness or meditation to slow things down.
+- - Journal your thoughts. It helps unload your mind.  
+- Know your limits and respect them.  
+- Surround yourself with peace, not noise.  
+- And most importantly, avoid drama. Protect your mental space like it’s gold.
+
+
+3. Emotional Stress  
+This is the hardest. Emotional stress comes from heartbreak, betrayal, disappointment, or even self-doubt.  
+To cope:
+- Learn to forgive—not for them, but for your peace.  
+- Let go of people who keep reopening your wounds.  
+- Choose peace over being right.  
+- Talk to someone. You don’t have to go through it alone.
+
+
+Final Thought  
+In conclusion, stress is part of life—but suffering from it doesn’t have to be. Whether it's physical, mental, or emotional, you deserve to feel whole and in control again.  
+So take deep breaths. Step back. Laugh more. And above all, choose peace—because you are worthy of a calm, joyful life.`
   }
 ];
 

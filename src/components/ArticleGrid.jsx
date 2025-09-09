@@ -144,6 +144,22 @@ const dummyArticles = [
     category: "Health Tips",
     image: "/self.jpg",
     date: "30th Aug, 2025"
+  },
+  {
+    id: 19,
+    title: "Causes of a Big Tummy (Bloating)",
+    author: "Focus Forge",
+    category: "Health Care",
+    image: "/tummy3.jpg",
+    date: "4th Sept, 2025"
+  },
+  {
+    id: 20,
+    title: "STRESS: A Door to Many Health Problems",
+    author: "Focus Forge",
+    category: "Mental Health",
+    image: "/stress.jpg",
+    date: "5th Sept, 2025"
   }
 ]
 
