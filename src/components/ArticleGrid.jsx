@@ -160,6 +160,14 @@ const dummyArticles = [
     category: "Mental Health",
     image: "/stress.jpg",
     date: "5th Sept, 2025"
+  },
+  {
+    id: 21,
+    title: "♡ LOVE ♡",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/love.jpg",
+    date: "17th Sept, 2025"
   }
 ]
 

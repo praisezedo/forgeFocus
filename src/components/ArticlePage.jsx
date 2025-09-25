@@ -1090,6 +1090,58 @@ To cope:
 Final Thought  
 In conclusion, stress is part of life—but suffering from it doesn’t have to be. Whether it's physical, mental, or emotional, you deserve to feel whole and in control again.  
 So take deep breaths. Step back. Laugh more. And above all, choose peace—because you are worthy of a calm, joyful life.`
+  },
+  {
+    id: 21,
+    title: "♡ LOVE ♡",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/love.jpg",
+    date: "17th Sept, 2025",
+    content: `
+In a generation where lust and infatuation have been normalized, real love remains the strongest force of all.
+
+Love is a choice, and also a feeling — one that is patient, courageous, kind, and gentle.  
+Most people think love is just an emotion. It might feel like a spark, but in truth, love is more of a decision — a conscious act of choosing someone, every single day.
+
+Imagine meeting someone…  
+You click. You vibe. You harmonize.  
+But deep down, something doesn't sit right.  
+They might have an amazing personality, a cute smile, even all the "green flags." But despite all that — you just don’t feel that connection.  
+
+Now pause. Ask yourself:  
+“Is this normal?”  
+Yes, it is. And it’s okay.
+
+But that leads to the deeper question:  
+What really is love?
+
+Love isn’t:  
+* Loving someone just because they love you — that’s dependency.  
+* Loving someone because of how they look — that’s attraction, maybe even obsession.  
+* Loving someone just because of how they treat you — that’s appreciation and respect, but not always love.  
+* Loving someone for their body type — that’s lust.*
+Real love is when you see someone’s flaws, weaknesses, fears — and still choose to stay.
+
+It’s when their imperfections don’t scare you away.  
+It’s when you could leave, but choose to hold on.
+
+That’s why love is mostly a decision:  
+→ Choosing to stay.  
+→ Choosing to care.  
+→ Choosing them… again and again.
+
+
+Your brain releases dopamine — a chemical linked to pleasure — in those small, beautiful moments: a text, a call, a voice note, or just seeing them.  
+It gives you a rush of unimaginable happiness.  
+
+But then, when that person begins to pull away,  
+you don’t just feel emotional pain — it feels physical.  
+Like a part of you is being stretched too far, and something deep inside aches.
+
+And that’s the thing about connection — it doesn’t just live in the heart, it echoes in the body. When someone you’ve grown attached to starts to drift, it’s not just absence you feel… it’s withdrawal. Like your soul noticed before your mind did.  
+
+Let love be seen not just as a feeling but as something human, flawed and beautiful.`
   }
 ];
 
