@@ -168,6 +168,30 @@ const dummyArticles = [
     category: "Relationship",
     image: "/love.jpg",
     date: "17th Sept, 2025"
+  },
+  {
+    id: 22,
+    title: "Sexual Child Abuse — Justice for Ochanya",
+    author: "Focus Forge",
+    category: "Child Rights",
+    image: "/right1.jpg",
+    date: "10th Nov, 2025"
+  },
+  {
+    id: 23,
+    title: "The Waiting Room ; Embracing the Power of Patience",
+    author: "Focus Forge",
+    category: "Patience",
+    image: "/patience.jpg",
+    date: "19th Nov, 2025"
+  },
+  {
+    id: 24,
+    title: "How to Monetize Your Hobbies as a Student",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/hobby.jpg",
+    date: "20th Nov, 2025"
   }
 ]
 

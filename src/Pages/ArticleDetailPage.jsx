@@ -1130,6 +1130,102 @@ Like a part of you is being stretched too far, and something deep inside aches.
 And that’s the thing about connection — it doesn’t just live in the heart, it echoes in the body. When someone you’ve grown attached to starts to drift, it’s not just absence you feel… it’s withdrawal. Like your soul noticed before your mind did.  
 
 Let love be seen not just as a feeling but as something human, flawed and beautiful.`
+  },
+    {
+    id: "22",
+    title: "Sexual Child Abuse — Justice for Ochanya",
+    author: "Focus Forge",
+    category: "Child Rights",
+    image: "/right1.jpg",
+    date: "10th Nov, 2025",
+    content: `In our noisy world today, many young children, teenagers, and even adults go through sexual abuse — sometimes from the very people who should protect them: uncles, aunts, parents, relatives, or trusted family friends.
+
+Growing up as a young girl, I was often warned by my parents to speak up if anyone ever tried to touch me inappropriately. But as a child, I never thought such things could really happen. I believed my parents only worried because of the stories they read online — stories I thought were exaggerated or made up.
+
+Then I met a friend who told me something that changed my view completely. He shared that he was abused by his aunt when he was just seven years old. He was already in his late twenties when he told me this, and at first, I found it hard to believe. I thought he might be joking or exaggerating — until one day I came across a disturbing video online showing a man abusing a child. I froze in shock, then broke down in tears and asked myself, “What has the world turned into?”
+
+Sadly, that was just the beginning. I started hearing more and more heartbreaking stories about little boys and girls who were molested — stories that mirrored the tragedy of Ochanya Elizabeth Ogbanje, a young girl whose story shook the nation.
+
+
+The Story of Ochanya
+
+Ochanya’s case was not just another headline — it was a painful reflection of how poverty and neglect can destroy young lives.
+She stayed with her aunt and uncle because her parents couldn’t afford to give her a proper education. Like many struggling families in Nigeria, they hoped that sending her to live with relatives would help secure her future. But sadly, that decision cost her everything.
+
+Ochanya’s future — her dreams, her laughter, her chance to be one of those “leaders of tomorrow” — was cruelly taken away in the very place where she was meant to be safe. Her story reminds us that poverty often forces children into dangerous situations where they become vulnerable to abuse and exploitation.
+
+This is why parents must learn to control childbirth. Many complain about hunger, unemployment, and hardship, yet continue bringing children into a world they can barely provide for — innocent souls who end up suffering the consequences of poor planning. The saying “children are the leaders of tomorrow” loses its meaning when those children are not given the chance to live, learn, and grow safely.
+
+
+
+What Needs to Change
+
+Parents of this generation must do more than just warn their daughters — they must also train and teach their sons.
+Decency is not only for the female gender. Though many of us were raised to believe otherwise, boys too must be taught how to control their urges, respect boundaries, and understand consent.
+
+Just because men do not face the same risks of unwanted pregnancy or infections does not mean they should live without discipline or empathy. Too often, society excuses male behavior while blaming the victims — especially in a system where the first question after an assault is, “What was she wearing?” instead of “Why did he do it?”
+
+Our society must stop normalizing silence and start teaching responsibility. We must raise a generation that knows the difference between desire and violence, between love and exploitation.
+
+Because behind every headline is a child like Ochanya — whose voice was silenced, but whose story continues to cry for justice.
+
+
+
+
+JUSTICE FOR OCHANYA!`
+  },
+    {
+    id: "23",
+    title: "The Waiting Room ; Embracing the Power of Patience",
+    author: "Focus Forge",
+    category: "Patience",
+    image: "/patience.jpg",
+    date: "19th Nov, 2025",
+    content:`Waiting is not something we often enjoy, yet it’s something life consistently requires from us. Whether you’re waiting for a job opportunity, a response from a client, or a personal breakthrough, the waiting room can feel like an uncertain and uncomfortable space.
+
+In a world where results are expected instantly, the concept of waiting becomes even more difficult; especially when you see others getting what you’ve been praying or working for. But the truth is: waiting is a season, and it plays a powerful role in your growth and success.
+
+One of the biggest patience-killers is comparison. When you start comparing your journey, your timeline, or even your progress to others, you’ll find your strength fading. But remember this, just because your blessing takes longer doesn’t mean it’s lesser. Often, the bigger the blessing, the longer the wait.
+
+Waiting teaches character, builds strength, and deepens faith. It reminds you that great things take time and that your path is uniquely yours. As the Bible puts it in Isaiah 40:31:“But those who wait on the Lord shall renew their strength. They will soar on wings like eagles; they will run and not grow weary; they will walk and not faint.”
+
+This waiting room isn’t meant to break you. It’s meant to prepare you; for better, bigger, and brighter. So don’t lose heart. Stay patient, stay faithful, and most importantly, stay ready.`
+  },
+    {
+    id: "24",
+    title: "How to Monetize Your Hobbies as a Student",
+    author: "Focus Forge",
+    category: "Self Development",
+    image: "/hobby.jpg",
+    date: "20th Nov, 2025",
+    content: `In today’s world, where everyone desires comfort and financial independence, especially students, learning how to monetize your hobbies can be one of the smartest ways to sustain yourself. Many of us have skills or passions we enjoy: dancing, writing, reading, crafting, or even playing instruments. But what if you could turn these fun activities into a source of income?
+
+The good news is: you can.
+
+Monetizing your hobbies is one of the easiest and most enjoyable ways to earn, especially as a student who doesn’t want to constantly ask for money. Even if you think you're not good enough, with consistency and effort, there's always a way to make it work.
+
+Your hobbies can be grouped into three major categories:
+
+
+1. Free Hobby  
+These are hobbies you enjoy purely for relaxation or fun, with zero intention of making money from them. They don’t bring any profit, but they refresh your mind and help you unwind.  
+Examples: Reading, watching football, journaling, or listening to music.
+
+
+
+2. Coffee Money Hobby*This type of hobby helps you earn small income—just enough to take care of minor personal needs like buying snacks, data, or basic self-care items. I call it the *"coffee money" hobby because it covers your light expenses without stress.  
+Examples: Bead making, knitting, crocheting, or selling handmade crafts. These may not make you rich, but they’re a great start!
+
+
+3. Investment Hobby  
+These hobbies are more serious. They have the potential to grow into long-term sources of income or even full-blown businesses. They require time, skill development, and maybe a small investment, but the rewards are worth it.  
+Examples: Graphic design, video editing, digital art, photography, blogging, or coding.
+
+
+Final Thoughts:  
+You don’t need to wait until graduation to start building income. Start where you are; with what you have. Whether it’s a free hobby to relax, a coffee money hobby for small bills, or an investment hobby that grows over time, every step counts.
+
+Your hobby might just be your next big opportunity. Why not start now?`
   }
 ];
 
