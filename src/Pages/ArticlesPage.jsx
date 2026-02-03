@@ -1227,7 +1227,105 @@ Final Thoughts:
 You don’t need to wait until graduation to start building income. Start where you are; with what you have. Whether it’s a free hobby to relax, a coffee money hobby for small bills, or an investment hobby that grows over time, every step counts.
 
 Your hobby might just be your next big opportunity. Why not start now?`
-  }
+  },
+    {
+    id: 25,
+    title: "5 Powerful Shifts That Will Make Success Come Naturally",
+    author: "Focus Forge",
+    category: "Success Mindset",
+    image: "/success.jpg",
+    date: "20th Jan, 2026",
+    content: `
+5 Powerful Shifts That Will Make Success Come Naturally
+
+Success isn’t magic; it’s a product of *failure*, *perseverance*, *patience*, and *consistency*. If you want to succeed, you must learn to use failure as a stepping stone, backed by discipline, focus, and time.
+
+We all know success doesn’t come easy, but here’s the truth: it becomes easier *if you obey the rules*.
+
+Let’s be honest; most of us spend *10–15 hours a day* scrolling on TikTok or Netflix, laughing, chatting, and gossiping, often without realizing how much time has passed. Hours go by without doing anything meaningful.
+
+The biggest thief of your dreams? *Procrastination*.  
+It kills goals, delays success, and wastes your potential.
+
+Instead of saying, _“I’ll start tomorrow,”_ take action *today*.
+
+Here’s why: when you say _“I’ll start tomorrow,”_ your brain relaxes. It gives you false hope that you’ll feel more ready later. But here’s the truth; *you’ll never feel ready*. That feeling doesn’t magically come. And before you know it, you’re stuck in a loop, repeating the same unproductive routines. 
+
+And at the end? *Regret*. The regret of not starting at all.
+
+Here are  Ways to Hack into your brain system to make success easier: 
+
+*1. Monetize Your Hobbies*  
+In one of my recent articles, I shared practical ways to turn your hobbies into income, even as a beginner. Whether it's writing, designing, cooking, or crafting; your hobby could be more than just fun. It could become your next stream of income.
+
+*2. Steal the First Hours of Your Day*  
+The early hours of the day are powerful. It’s usually best to do the hardest or least enjoyable tasks first thing in the morning ; while your mind is clear and distractions are few.  
+Think about it: as kids, many of us were woken up early by our parents to complete chores before the day really began. That routine allowed us to enjoy the rest of the day guilt-free.  
+Now as adults, apply the same principle. Steal 1–2 hours from the start of your day and dedicate it to your goals. Use it to brainstorm, write, learn a new skill, or build that system you've been dreaming of.  
+
+
+*3. Practice Meditation & Build Focus*  
+Meditation is a powerful tool that trains your mind to focus and stay calm. Regular meditation not only improves concentration but also relaxes your nerves, helping you to remain centered and productive. Over time, this habit makes it easier to stay focused for an hour or two without distractions, a skill essential for deep work and growth.
+
+*4. Build a Workout Routine*  
+This habit is essential. Exercise boosts blood circulation throughout the body, including the brain : helping you think more clearly and process information faster. A regular workout routine also increases your energy, sharpens your mental clarity, and builds discipline that spills into every other area of your life.
+
+*5. Read Books*  
+Reading is one of the most powerful habits for personal development. It boosts your brain’s neuroplasticity — its ability to form new neural connections ; making you smarter and more adaptable. Whether it's fiction or non-fiction, reading expands your knowledge, vocabulary, and creativity. Start with just 10 pages a day and see how your mindset evolves.
+
+Success doesn’t happen overnight, it’s a result of consistent effort, intentional habits, and making the most of the time and resources you already have. Whether it's monetizing your hobbies, waking up earlier, or investing in personal growth, the key is to start where you are and stay committed. Remember, small steps every day lead to big changes over time. So rise early, stay focused, and build the future you dream of; one habit at a time.
+    `
+  },
+  {
+    id: 26,
+    title: "Limerence vs Love (Quick Reality Check)",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/lovevslimerence.jpg",
+    date: "20th Jan, 2026",
+    content: `
+Sometimes it feels like love, but really, it’s just someone living rent-free in your head.
+That’s limerence.
+Limerence is when your mood depends on how one person treats you. You overthink texts, replay conversations, and ignore red flags because the attention feels good. It’s intense, confusing, and honestly stressful.
+Love is different.
+Love feels safe. You don’t have to chase clarity or beg for reassurance. There’s consistency, mutual effort, and peace instead of anxiety. You feel chosen not guessed.
+Here’s the simplest way to tell:
+If it makes you anxious and obsessed, it’s probably limerence.
+If it makes you calm and secure, it’s love.
+Limerence feels exciting, but love feels steady.
+And steady is better.
+    `
+  },
+   {
+    id: 27,
+    title: "The Thing We Avoid That’s Ruining Our Relationships",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/relationship.jpg",
+    date: "20th Jan, 2026",
+    content: `
+  There’s a quiet problem we don’t like to talk about: we avoid uncomfortable emotions, and it’s costing us real connection.
+Instead of being honest, we ghost.
+Instead of explaining, we withdraw.
+Instead of saying “I don’t feel the same anymore,” we disappear and call it “protecting our peace.”
+But all we’re really doing is passing confusion to someone else.
+Avoidance feels easier in the moment. You don’t have to explain yourself. You don’t have to feel awkward. You don’t have to sit with guilt. So we choose silence and tell ourselves the other person will “get over it.”
+The truth? Most people don’t get over it. They internalize it.
+They replay conversations. They question their worth. They wonder what they did wrong. And all of that could have been avoided with one honest sentence.
+This is where emotional accountability comes in.
+Emotional accountability doesn’t mean oversharing or being harsh. It simply means owning your feelings and the impact of your actions. It sounds like:
+“I’ve changed my mind, and I should’ve said it sooner.”
+“I’m not emotionally available right now.”
+“I handled that badly, and I’m sorry.”
+These aren’t dramatic statements. They’re respectful ones.
+People avoid accountability because it’s uncomfortable. It forces you to admit imperfection. It requires vulnerability. But discomfort is temporary—confusion lasts longer.
+When we choose honesty, we reduce emotional damage. When we communicate boundaries clearly, we stop building resentment. When we apologize, we allow healing to start.
+The solution isn’t being perfect in relationships. It’s being present, clear, and responsible.
+Avoidance might protect you today.
+Accountability protects everyone tomorrow.
+And in a society struggling with broken connections, that matters.
+    `
+   }
 ];
 
 const ArticlesPage = () => {

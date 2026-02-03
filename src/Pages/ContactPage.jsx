@@ -47,21 +47,21 @@ export default function ContactPage() {
 
         {/* Socials */}
         <div className="flex justify-center items-center space-x-6 mb-10">
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.facebook.com/profile.php?id=61579615385268" target="_blank" rel="noopener noreferrer">
             <img
               src="/facebook.jpg"
               alt="Facebook"
               className="w-10 h-10 hover:scale-110 transition"
             />
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/3056francisca/?utm_source=ig_web_button_share_sheet" target="_blank" rel="noopener noreferrer">
             <img
               src="/Instagram.jpg"
               alt="Instagram"
               className="w-10 h-10 hover:scale-110 transition"
             />
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.tiktok.com/@joan.chi6?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
             <img
               src="/tiktok.jpg"
               alt="TikTok"
