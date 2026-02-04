@@ -192,7 +192,31 @@ const dummyArticles = [
     category: "Self Development",
     image: "/hobby.jpg",
     date: "20th Nov, 2025"
-  }
+  },
+  {
+    id: 25,
+    title: "5 Powerful Shifts That Will Make Success Come Naturally",
+    author: "Focus Forge",
+    category: "Success Mindset",
+    image: "/successful.jpg",
+    date: "20th Jan, 2026",
+  },
+    {
+    id: 26,
+    title: "Limerence vs Love (Quick Reality Check)",
+    author: "Focus Forge",
+    category: "Relationship",
+    image: "/lovevslimerence.jpg",
+    date: "20th Jan, 2026",
+  },
+   {
+    id: 27,
+    title: "The Thing We Avoid That’s Ruining Our Relationships",
+    author: "Focus Forge",
+    category: "Relationship",
+     image: "/relationship.jpg",
+    date: "20th Jan, 2026",
+   },
 ]
 
 const ArticleGrid = () => {
